@@ -1,0 +1,1 @@
+# Odoo_studio_Loyal
